@@ -4,14 +4,7 @@
   A web developer from Manaus/AM, Brazil.
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/luiz-hartmann/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- 
-  
-</p>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lu-hartmann&show_icons=true&count_private=true&theme=dark" width="350"></a>
