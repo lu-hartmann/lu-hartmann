@@ -4,7 +4,7 @@ I am a computer technician graduated from "SENAC - Serviço Nacional de Aprendiz
 
 
 ### Technologies
-- iOS Development with Swift (UIKit and SwiftUI).
+- iOS Development with Swift (UIKit).
 - Front-end Development with HTML, CSS, and Javascript.
 
 Also interested in:
