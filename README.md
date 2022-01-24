@@ -5,10 +5,7 @@ I am a computer technician graduated from "SENAC - Serviço Nacional de Aprendiz
 
 ### Technologies
 - iOS Development with Swift (UIKit).
-- Front-end Development with HTML, CSS, and Javascript.
-
-Also interested in:
-
+- Front-end Development with HTML, CSS, Javascript and PHP.
 
 ###  Contact Me
 - <a href="https://www.linkedin.com/in/luiz-hartmann/">Linkedin</a>
